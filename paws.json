@@ -1,0 +1,10 @@
+{
+  "name": "Rescue PAWS",
+  "symbol": "PAWS",
+  "description": "Rescue PAWS is an educational fungible token created for the Rescue TON project, which explores blockchain tools for supporting animal shelters. The token was developed as part of a laboratory assignment on TON smart contracts.",
+  "decimals": "9",
+  "image": "https://raw.githubusercontent.com/dolya-julia/rescue-ton-nft/main/images/paws.svg",
+  "social_links": [
+    "https://github.com/dolya-julia/rescue-ton-nft"
+  ]
+}
