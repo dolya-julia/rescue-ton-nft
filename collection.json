@@ -1,0 +1,10 @@
+{
+  "name": "Rescue TON — Animal Passports",
+  "description": "Коллекция цифровых паспортов животных Rescue TON. Каждый NFT представляет отдельное животное и содержит его основные характеристики. Коллекция создана в рамках учебного проекта по разработке NFT на блокчейне TON.",
+  "image": "https://raw.githubusercontent.com/dolya-julia/rescue-ton-nft/main/images/collection.svg",
+  "external_link": "https://github.com/dolya-julia/rescue-ton-nft",
+  "marketplace": "getgems.io",
+  "social_links": [
+    "https://github.com/dolya-julia/rescue-ton-nft"
+  ]
+}

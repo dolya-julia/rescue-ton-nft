@@ -1,0 +1,28 @@
+{
+  "name": "Рекс — цифровой паспорт",
+  "description": "Цифровой паспорт Рекса из коллекции Rescue TON. NFT содержит основные сведения о животном и подтверждает его принадлежность к коллекции.",
+  "image": "https://raw.githubusercontent.com/dolya-julia/rescue-ton-nft/main/images/rex.svg",
+  "external_url": "https://github.com/dolya-julia/rescue-ton-nft",
+  "attributes": [
+    {
+      "trait_type": "Имя",
+      "value": "Рекс"
+    },
+    {
+      "trait_type": "Вид",
+      "value": "Собака"
+    },
+    {
+      "trait_type": "Тип NFT",
+      "value": "Animal Passport"
+    },
+    {
+      "trait_type": "Коллекция",
+      "value": "Rescue TON"
+    },
+    {
+      "trait_type": "Статус",
+      "value": "Зарегистрирован"
+    }
+  ]
+}

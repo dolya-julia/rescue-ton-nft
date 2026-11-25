@@ -1,0 +1,28 @@
+{
+  "name": "Барсик — цифровой паспорт",
+  "description": "Цифровой паспорт Барсика из коллекции Rescue TON. NFT содержит основные сведения о животном и подтверждает его принадлежность к коллекции.",
+  "image": "https://raw.githubusercontent.com/dolya-julia/rescue-ton-nft/main/images/barsik.svg",
+  "external_url": "https://github.com/dolya-julia/rescue-ton-nft",
+  "attributes": [
+    {
+      "trait_type": "Имя",
+      "value": "Барсик"
+    },
+    {
+      "trait_type": "Вид",
+      "value": "Кошка"
+    },
+    {
+      "trait_type": "Тип NFT",
+      "value": "Animal Passport"
+    },
+    {
+      "trait_type": "Коллекция",
+      "value": "Rescue TON"
+    },
+    {
+      "trait_type": "Статус",
+      "value": "Зарегистрирован"
+    }
+  ]
+}
