@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#B8D8C8"></stop>
+      <stop offset="100%" stop-color="#6C9F89"></stop>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="800" rx="70" fill="url(#bg)"></rect>
+  <circle cx="400" cy="350" r="270" fill="#FFFFFF" opacity=".25"></circle>
+  <path d="M230 270 Q95 110 150 410 Q180 510 300 440" fill="#A96E43" stroke="#68432E" stroke-width="18"></path>
+  <path d="M570 270 Q705 110 650 410 Q620 510 500 440" fill="#A96E43" stroke="#68432E" stroke-width="18"></path>
+  <ellipse cx="400" cy="385" rx="225" ry="240" fill="#C68A58" stroke="#68432E" stroke-width="18"></ellipse>
+  <ellipse cx="320" cy="350" rx="25" ry="33" fill="#282828"></ellipse>
+  <ellipse cx="480" cy="350" rx="25" ry="33" fill="#282828"></ellipse>
+  <ellipse cx="400" cy="460" rx="115" ry="95" fill="#F0D7B9"></ellipse>
+  <ellipse cx="400" cy="415" rx="38" ry="28" fill="#292929"></ellipse>
+  <path d="M400 445 Q375 500 345 480 M400 445 Q425 500 455 480" fill="none" stroke="#68432E" stroke-width="12" stroke-linecap="round"></path>
+  <path d="M300 555 Q400 610 500 555" fill="none" stroke="#68432E" stroke-width="15" stroke-linecap="round"></path>
+  <rect x="255" y="605" width="290" height="66" rx="30" fill="#FFFFFF" opacity=".9"></rect>
+  <text x="400" y="650" text-anchor="middle" font-family="Arial,sans-serif" font-size="38" font-weight="bold" fill="#68432E">РЕКС</text>
+  <text x="400" y="730" text-anchor="middle" font-family="Arial,sans-serif" font-size="27" fill="#FFFFFF">RESCUE TON PASSPORT</text>
+</svg>

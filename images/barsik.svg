@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F6D9A8"></stop>
+      <stop offset="100%" stop-color="#E99B72"></stop>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="800" rx="70" fill="url(#bg)"></rect>
+  <circle cx="400" cy="350" r="270" fill="#FFFFFF" opacity=".25"></circle>
+  <path d="M190 300 L220 115 L365 235 L435 235 L580 115 L610 300" fill="#D58A4B" stroke="#70462E" stroke-width="18" stroke-linejoin="round"></path>
+  <ellipse cx="400" cy="390" rx="230" ry="245" fill="#D58A4B" stroke="#70462E" stroke-width="18"></ellipse>
+  <path d="M270 285 L310 330 M530 285 L490 330" stroke="#70462E" stroke-width="17" stroke-linecap="round"></path>
+  <ellipse cx="320" cy="365" rx="24" ry="32" fill="#263B32"></ellipse>
+  <ellipse cx="480" cy="365" rx="24" ry="32" fill="#263B32"></ellipse>
+  <ellipse cx="400" cy="445" rx="75" ry="55" fill="#F4D9B9"></ellipse>
+  <path d="M375 420 L425 420 L400 450 Z" fill="#B96872"></path>
+  <path d="M400 450 Q370 490 340 470 M400 450 Q430 490 460 470" fill="none" stroke="#70462E" stroke-width="12" stroke-linecap="round"></path>
+  <path d="M250 435 L130 410 M250 465 L125 480 M550 435 L670 410 M550 465 L675 480" stroke="#70462E" stroke-width="8" stroke-linecap="round"></path>
+  <rect x="255" y="565" width="290" height="66" rx="30" fill="#FFFFFF" opacity=".9"></rect>
+  <text x="400" y="610" text-anchor="middle" font-family="Arial,sans-serif" font-size="38" font-weight="bold" fill="#70462E">БАРСИК</text>
+  <text x="400" y="710" text-anchor="middle" font-family="Arial,sans-serif" font-size="27" fill="#70462E">RESCUE TON PASSPORT</text>
+</svg>
