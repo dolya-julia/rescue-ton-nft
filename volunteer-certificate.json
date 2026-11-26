@@ -1,0 +1,26 @@
+{
+  "name": "Rescue Volunteer Certificate",
+  "description": "Soulbound NFT-сертификат проекта Rescue TON, подтверждающий участие владельца в волонтерской деятельности и поддержке помощи животным. Сертификат привязан к адресу владельца и не может быть передан другому кошельку.",
+  "attributes": [
+    {
+      "trait_type": "Project",
+      "value": "Rescue TON"
+    },
+    {
+      "trait_type": "Certificate Type",
+      "value": "Volunteer"
+    },
+    {
+      "trait_type": "Token Standard",
+      "value": "Soulbound NFT"
+    },
+    {
+      "trait_type": "Transferable",
+      "value": "No"
+    },
+    {
+      "trait_type": "Network",
+      "value": "TON Testnet"
+    }
+  ]
+}
